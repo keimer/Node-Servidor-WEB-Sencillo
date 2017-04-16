@@ -1,0 +1,167 @@
+//favicon.ico/pagina2/favicon.ico//favicon.ico/pagina1/favicon.ico/pagina1
+/favicon.ico
+/pagina2
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/
+/favicon.ico
+/pagina2
+/favicon.ico
+/
+/favicon.ico
+/
+/
+/favicon.ico
+/
+/favicon.ico
+ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /pagina2. '
+'ruta = /pagina2. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina1. '
+'ruta = /pagina2. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /css/style.css. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /css/style.css. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /pagina1. '
+'ruta = /favicon.ico. '
+'ruta = /pagina2. '
+'ruta = /favicon.ico. '
+'ruta = /favicon.ico. '
+'
